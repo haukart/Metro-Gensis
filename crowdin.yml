@@ -1,0 +1,17 @@
+files:
+  - source: Metro/localisation/english/ALK/**
+    translation: Metro/localisation/%language%/ALK/%original_file_name%
+  - source: Metro/localisation/english/ARB
+    translation: Metro/localisation/%language%/ARB/%original_file_name%
+  - source: Metro/localisation/english/AVT
+    translation: Metro/localisation/%language%/AVT/%original_file_name%
+  - source: Metro/localisation/english/BAU
+    translation: Metro/localisation/%language%/BAU/%original_file_name%
+  - source: Metro/localisation/english/BRK
+    translation: Metro/localisation/%language%/BRK/%original_file_name%
+  - source: Metro/localisation/english/DIM
+    translation: Metro/localisation/%language%/DIM/%original_file_name%
+  - source: Metro/localisation/english/EUR
+    translation: Metro/localisation/%language%/EUR/%original_file_name%
+  - source: Metro/localisation/english/GWC
+    translation: Metro/localisation/%language%/GWC/%original_file_name%
