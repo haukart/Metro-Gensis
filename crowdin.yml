@@ -9,4 +9,5 @@ files:
       - Metro/localisation/english/SPT
       - Metro/localisation/english/SEV
       - Metro/localisation/english/SCA
+      - Metro/localisation/english/**.yml
     translation: Metro/localisation/%language%/%original_file_name%.yml
