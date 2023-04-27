@@ -61,5 +61,3 @@ files:
     translation: Metro/localisation/%language%/TRT/%original_file_name%
   - source: Metro/localisation/english/ULI
     translation: Metro/localisation/%language%/ULI/%original_file_name%
-  - source: Metro/localisation/english/VDN
-    translation: Metro/localisation/%language%/VDN/%original_file_name%
