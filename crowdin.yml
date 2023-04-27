@@ -31,7 +31,7 @@ files:
     translation: Metro/localisation/%language%/MSU/%original_file_name%
   - source: Metro/localisation/english/MUT
     translation: Metro/localisation/%language%/MUT/%original_file_name%
-    - source: Metro/localisation/english/PEC
+  - source: Metro/localisation/english/PEC
     translation: Metro/localisation/%language%/PEC/%original_file_name%
   - source: Metro/localisation/english/PVL
     translation: Metro/localisation/%language%/PVL/%original_file_name%
