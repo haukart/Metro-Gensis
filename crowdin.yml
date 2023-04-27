@@ -1,13 +1,7 @@
 files:
-  - source: Metro/localisation/english/**/**.yml
-    ignore:
-      - Metro/localisation/english/VDN
-      - Metro/localisation/english/ULI
-      - Metro/localisation/english/TRT
-      - Metro/localisation/english/TECH
-      - Metro/localisation/english/STG
-      - Metro/localisation/english/SPT
-      - Metro/localisation/english/SEV
-      - Metro/localisation/english/SCA
-      - Metro/localisation/english/**.yml
-    translation: Metro/localisation/%language%/%original_file_name%.yml
+  - source: Metro/localisation/english/ARB/**.yml
+    translation: Metro/localisation/%language%/ARB/%original_file_name%
+  - source: Metro/localisation/english/ALK/**.yml
+    translation: Metro/localisation/english/ALK/**.yml
+  - source: Metro/localisation/english/AVT
+    translation: Metro/localisation/%language%/AVT/%original_file_name%
