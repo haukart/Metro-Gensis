@@ -15,3 +15,23 @@ files:
     translation: Metro/localisation/%language%/EUR/%original_file_name%
   - source: Metro/localisation/english/GWC
     translation: Metro/localisation/%language%/GWC/%original_file_name%
+  - source: Metro/localisation/english/HNZ/**
+    translation: Metro/localisation/%language%/HNZ/%original_file_name%
+  - source: Metro/localisation/english/HUL
+    translation: Metro/localisation/%language%/HUL/%original_file_name%
+  - source: Metro/localisation/english/ISL
+    translation: Metro/localisation/%language%/ISL/%original_file_name%
+  - source: Metro/localisation/english/KAL
+    translation: Metro/localisation/%language%/KAL/%original_file_name%
+  - source: Metro/localisation/english/KTG
+    translation: Metro/localisation/%language%/KTG/%original_file_name%
+  - source: Metro/localisation/english/KUZ
+    translation: Metro/localisation/%language%/KUZ/%original_file_name%
+  - source: Metro/localisation/english/MSU
+    translation: Metro/localisation/%language%/MSU/%original_file_name%
+  - source: Metro/localisation/english/MUT
+    translation: Metro/localisation/%language%/MUT/%original_file_name%
+    - source: Metro/localisation/english/PEC
+    translation: Metro/localisation/%language%/PEC/%original_file_name%
+  - source: Metro/localisation/english/PVL
+    translation: Metro/localisation/%language%/PVL/%original_file_name%
