@@ -49,3 +49,17 @@ files:
     translation: Metro/localisation/%language%/SAT/%original_file_name%
   - source: Metro/localisation/english/SCA
     translation: Metro/localisation/%language%/SCA/%original_file_name%
+  - source: Metro/localisation/english/SEV
+    translation: Metro/localisation/%language%/SEV/%original_file_name%
+  - source: Metro/localisation/english/SPT
+    translation: Metro/localisation/%language%/SPT/%original_file_name%
+  - source: Metro/localisation/english/STG
+    translation: Metro/localisation/%language%/STG/%original_file_name%
+  - source: Metro/localisation/english/TECH
+    translation: Metro/localisation/%language%/TECH/%original_file_name%
+  - source: Metro/localisation/english/TRT
+    translation: Metro/localisation/%language%/TRT/%original_file_name%
+  - source: Metro/localisation/english/ULI
+    translation: Metro/localisation/%language%/ULI/%original_file_name%
+  - source: Metro/localisation/english/VDN
+    translation: Metro/localisation/%language%/VDN/%original_file_name%
