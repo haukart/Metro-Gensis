@@ -35,3 +35,17 @@ files:
     translation: Metro/localisation/%language%/PEC/%original_file_name%
   - source: Metro/localisation/english/PVL
     translation: Metro/localisation/%language%/PVL/%original_file_name%
+  - source: Metro/localisation/english/RANDOM_EVENTS
+    translation: Metro/localisation/%language%/RANDOM_EVENTS/%original_file_name%
+  - source: Metro/localisation/english/RCH
+    translation: Metro/localisation/%language%/RCH/%original_file_name%
+  - source: Metro/localisation/english/RED
+    translation: Metro/localisation/%language%/RED/%original_file_name%
+  - source: Metro/localisation/english/RMJ
+    translation: Metro/localisation/%language%/RMJ/%original_file_name%
+  - source: Metro/localisation/english/RYZ
+    translation: Metro/localisation/%language%/RYZ/%original_file_name%
+  - source: Metro/localisation/english/SAT
+    translation: Metro/localisation/%language%/SAT/%original_file_name%
+  - source: Metro/localisation/english/SCA
+    translation: Metro/localisation/%language%/SCA/%original_file_name%
