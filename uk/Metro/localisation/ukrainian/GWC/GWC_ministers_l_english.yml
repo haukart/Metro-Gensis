@@ -1,7 +1,7 @@
 ﻿l_english:
-  - GWC_priest:0 "Priest"
-  - GWC_warrior:0 "Warrior"
-  - GWC_many_voices:0 "Many Voices"
+  GWC_priest: "Priest"
+  GWC_warrior: "Warrior"
+  GWC_many_voices: "Many Voices"
 
 
 
