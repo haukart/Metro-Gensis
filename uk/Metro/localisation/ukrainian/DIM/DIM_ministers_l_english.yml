@@ -1,3 +1,3 @@
 ﻿l_english:
-  - DIM_vasyurkov:0 "Vasyurkov"
-  - DIM_VASYURKOV_DESC:0 ""
+  DIM_vasyurkov: "Vasyurkov"
+  DIM_VASYURKOV_DESC: ""
