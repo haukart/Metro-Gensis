@@ -1,55 +1,55 @@
 ﻿l_english:
- strongarm_caravans:0 "Safe Trade routes"
+ strongarm_caravans: "Safe Trade routes"
 
- mobilise:0 "Mobilized Workforce"
+ mobilise: "Mobilized Workforce"
 
- industry_boost:0 "Technician Know-how"
+ industry_boost: "Technician Know-how"
 
- gunsmith_construction:0 "Gunsmith Effort"
+ gunsmith_construction: "Gunsmith Effort"
 
- workshop_construction:0 "Workshop Effort"
+ workshop_construction: "Workshop Effort"
 
- scavenging_efforts:0 "Scavenging Effort"
+ scavenging_efforts: "Scavenging Effort"
 
- labour_mobilise:0 "Artisan Effort"
+ labour_mobilise: "Artisan Effort"
 
- community:0 "Community"
+ community: "Community"
 
- immigrants:0 "Immigration"
+ immigrants: "Immigration"
 
- free_ideals:0 "Free Ideals"
+ free_ideals: "Free Ideals"
 
- council:0 "Council"
+ council: "Council"
 
- council_unions:0 "Unions"
+ council_unions: "Unions"
 
- council_progress:0 "Pursuit of Progress"
+ council_progress: "Pursuit of Progress"
 
- oligarch:0 "Oligarch"
+ oligarch: "Oligarch"
 
- wealth:0 "Trade Power"
+ wealth: "Trade Power"
 
- dictatorial:0 "Despot"
+ dictatorial: "Despot"
 
- do_or_die:0 "Eternal Struggle"
+ do_or_die: "Eternal Struggle"
 
- military_leader_boost:0 "Hire Commanders"
+ military_leader_boost: "Hire Commanders"
 
- guerilla_militias:0 "Guerilla Tactics"
+ guerilla_militias: "Guerilla Tactics"
 
- regimental_training:0 "Training Exercises"
+ regimental_training: "Training Exercises"
 
- new_world_army:0 "Disciplined Army"
+ new_world_army: "Disciplined Army"
 
- militia_funding:0 "Militia Funding"
+ militia_funding: "Militia Funding"
 
- home_guard:0 "Station Guard"
- home_guard_desc:0 ""
+ home_guard: "Station Guard"
+ home_guard_desc: ""
 
- gun_production_boost:0 "Manufactured Armaments"
+ gun_production_boost: "Manufactured Armaments"
 
- infastructure_effort_3:0 "Infastructure Effort III"
+ infastructure_effort_3: "Infastructure Effort III"
 
- caravan_trade:0 "Caravan Trade"
+ caravan_trade: "Caravan Trade"
 
 

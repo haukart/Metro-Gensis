@@ -1,19 +1,19 @@
 ﻿l_english:
-  flamethrower_equipment_0:0 "Flamethrower Equipment"
-  flamethrower_equipment_0_desc:0 "Equipment which uses Flamethrowers"
-  flamethrower_equipment_0_short:0 "Flamethrowers"
+  flamethrower_equipment_0: "Flamethrower Equipment"
+  flamethrower_equipment_0_desc: "Equipment which uses Flamethrowers"
+  flamethrower_equipment_0_short: "Flamethrowers"
 
-  explosive_equipment_0:0 "Explosive Equipment"
-  explosive_equipment_0_desc:0 "Equipment which uses Explosives"
-  explosive_equipment_0_short:0 "Explosives"
+  explosive_equipment_0: "Explosive Equipment"
+  explosive_equipment_0_desc: "Equipment which uses Explosives"
+  explosive_equipment_0_short: "Explosives"
 
-  gatling_equipment_0:0 "Machinegun Equipment"
-  gatling_equipment_0_desc:0 "Equipment which uses LMGs or mounted Machineguns"
-  gatling_equipment_0_short:0 "Gatling"
+  gatling_equipment_0: "Machinegun Equipment"
+  gatling_equipment_0_desc: "Equipment which uses LMGs or mounted Machineguns"
+  gatling_equipment_0_short: "Gatling"
 
-  piercing_equipment_0:0 "Piercing Equipment"
-  piercing_equipment_desc:0 "Equipment which uses penetrates armor"
-  piercing_equipment_short:0 "Piercing"
+  piercing_equipment_0: "Piercing Equipment"
+  piercing_equipment_desc: "Equipment which uses penetrates armor"
+  piercing_equipment_short: "Piercing"
 
   basic_infantry_equipment: "Revolver"
   basic_infantry_equipment_desc: "Simple and can be relied upon, the Revolver fires .44 Magnum cartridges. It is especially competent at mid to long range combat thanks to its relative decentr accuracy and firepower. Despite this, its cylinder capacity it is often best used as a last resort, or a side arm piece to complement more reliable firepower."
