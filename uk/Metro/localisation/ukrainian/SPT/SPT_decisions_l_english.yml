@@ -1,6 +1,6 @@
 ﻿l_english:
-  - SPT_salvaging_duties:0 "Topside Salvaging"
-  - SPT_execute_salvaging_mission:0 "Execute Salvage Mission"
+  SPT_salvaging_duties: "Topside Salvaging"
+  SPT_execute_salvaging_mission: "Execute Salvage Mission"
 
 
 
