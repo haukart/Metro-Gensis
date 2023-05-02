@@ -1,0 +1,3 @@
+files:
+  - source: Metro/localisation/english/
+    translation: Metro/localisation/%language%/
