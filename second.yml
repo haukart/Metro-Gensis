@@ -5,5 +5,5 @@ files:
     translation: Metro/localisation/%language%/ULI/%original_file_name%
   - source: Metro/localisation/english/VDN
     translation: Metro/localisation/%language%/VDN/%original_file_name%
-  - source: Metro/localisation/english/
+  - source: Metro/localisation/english/*.yml
     translation: Metro/localisation/%language%/%original_file_name%
