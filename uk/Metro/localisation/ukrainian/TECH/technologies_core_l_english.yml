@@ -1,0 +1,81 @@
+﻿l_english:
+  ## Doctrine ##
+  doctrine_overwhelm: "Overwhelm Doctrine"
+  doctrine_elite: "Elite Doctrine"
+  doctrine_balanced: "Conventional Doctrine"
+  doctrine_mutant: "Savage Doctrine"
+  ### Doctrines ###
+  ELITE_DOCTRINE_LABEL: "Elite Doctrine"
+  ELITE_DOCTRINE_DESC: "Bullets are cheap, lives are not. Superior tactics, Disciplined troops, and deadly efficiency is the key to success."
+  BALANCED_DOCTRINE_LABEL: "Balanced Doctrine"
+  BALANCED_DOCTRINE_DESC: "Extensive preparation, and by emulating the tactics, and technology of the old world, can bring us victory."
+  OVERWHELM_DOCTRINE_LABEL: "Overwhelm Doctrine"
+  OVERWHELM_DOCTRINE_DESC: "For what we may lack in skill or in technology, we possess in numbers; For quantity has a quality all in its own, and the ends justify the means."
+  #Elite Doctrine#
+  elite_doctrine: "Elite Doctrine"
+  elite_doctrine_2: "Elite Doctrine"
+  elite_doctrine_3a: "Elite Doctrine"
+  elite_doctrine_3b: "Elite Doctrine"
+  elite_doctrine_4: "Elite Doctrine"
+  elite_doctrine_5: "Elite Doctrine"
+  elite_doctrine_6a: "Elite Doctrine"
+  elite_doctrine_6b: "Elite Doctrine"
+  elite_doctrine_7a: "Elite Doctrine"
+  elite_doctrine_7b: "Elite Doctrine"
+  elite_doctrine_8: "Elite Doctrine"
+  elite_doctrine_9: "Elite Doctrine"
+  balanced_doctrine: "Conventional Doctrine"
+  balanced_doctrine_2a: "Conventional Doctrine"
+  balanced_doctrine_2c: "Conventional Doctrine"
+  balanced_doctrine_3: "Conventional Doctrine"
+  balanced_doctrine_4a: "Conventional Doctrine"
+  balanced_doctrine_4b: "Conventional Doctrine"
+  balanced_doctrine_5a: "Conventional Doctrine"
+  balanced_doctrine_5b: "Conventional Doctrine"
+  balanced_doctrine_6a: "Conventional Doctrine"
+  balanced_doctrine_6b: "Conventional Doctrine"
+  balanced_doctrine_7: "Conventional Doctrine"
+  balanced_doctrine_8a: "Conventional Doctrine"
+  balanced_doctrine_8b: "Conventional Doctrine"
+  balanced_doctrine_9a: "Conventional Doctrine"
+  balanced_doctrine_9b: "Conventional Doctrine"
+  overwhelm_doctrine: "Overwhelm Doctrine"
+  overwhelm_doctrine_2: "Overwhelm Doctrine"
+  overwhelm_doctrine_3: "Overwhelm Doctrine"
+  overwhelm_doctrine_4a: "Overwhelm Doctrine"
+  overwhelm_doctrine_4b: "Overwhelm Doctrine"
+  overwhelm_doctrine_5a: "Overwhelm Doctrine"
+  overwhelm_doctrine_5b: "Overwhelm Doctrine"
+  overwhelm_doctrine_6a: "Overwhelm Doctrine"
+  overwhelm_doctrine_6b: "Overwhelm Doctrine"
+  overwhelm_doctrine_7: "Overwhelm Doctrine"
+  overwhelm_doctrine_8a: "Overwhelm Doctrine"
+  overwhelm_doctrine_8b: "Overwhelm Doctrine"
+  overwhelm_doctrine_9: "Overwhelm Doctrine"
+  ### Year Tags ###
+  tech_year_2020: "2020"
+  tech_year_2028: "2028"
+  tech_year_2029: "2029"
+  tech_year_2030: "2030"
+  tech_year_2031: "2031"
+  tech_year_2032: "2032"
+  tech_year_2033: "2033"
+  tech_year_2034: "2034"
+  tech_year_2035: "2035"
+  tech_year_2036: "2036"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

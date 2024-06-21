@@ -1,0 +1,32 @@
+﻿l_english:
+  _spartan_representative: "Representative of Interests"
+  _spartan_scientist: "Scientist"
+  _spartan_recruiter: "Recruiter"
+  _spartan_quatermaster: "Quatermaster"
+  _startan_technician: "Technician"
+  _spartan_drill_instructor: "Drill Seargant"
+  _spartan_surgeon: "Shotgun Surgeon"
+  _spartan_topside_surveyor: "Expert Stalker"
+  _spartan_sniper: "Sniper"
+  _spartan_doctrine_theorist: "Theorist"
+  ### Country Leaders ###
+  SPT_MILLER_NAME: "Sviatoslav Melnik"
+  SPT_MILLER_DESC: "Sviatoslav Konstantinovich Mel'nikov, commonly known as Miller is a former GRU Special Forces Colonel. In his life in the Metro he has taken the position as the Head of Rangers and therefore is the current leader of the Spartan Order."
+  _SPT_miller_country_leader_trait: "§CColonel of the Order§!"
+  ### Military ###
+  SPT_HUNTER_NAME: "Hunter"
+  ### Advisors ###
+  _SPT_miller_trait: "Harsh Leader"
+  _SPT_hunter_trait: "if its hostile, you kill it"
+
+
+
+
+
+
+
+
+
+
+
+
